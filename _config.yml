@@ -4,7 +4,7 @@ email:              "simba430@naver.com"
 description:        "블로그 설명"
 author:             "이명준"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://lmj-for-dev.github.io/"
 locale:             "ko_KR"
 thumbnail:          "/img/thumbnail.png"
 
