@@ -1,12 +1,12 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
+title:              "창업하는 그로스해커"
+tagline:            "스타트업 전문 블로그/비즈니스/서비스기획/PM/PO/그로스해킹/디지털마케팅/퍼포먼스마케팅"
+email:              "simba430@naver.com"
 description:        "블로그 설명"
-author:             "작성자 이름"
+author:             "이명준"
 baseurl:            "/"
 url:                "https://도메인"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/thumbnail.png"
 
 # Social Profiles
 twitter_username:   twitter_username
