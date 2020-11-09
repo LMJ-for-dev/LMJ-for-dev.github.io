@@ -1,7 +1,7 @@
-title:              "창업하는 그로스해커"
-tagline:            "스타트업 전문 블로그/비즈니스/서비스기획/PM/PO/그로스해킹/디지털마케팅/퍼포먼스마케팅"
+title :             "창업하는 그로스해커"
+tagline:            "창업하는 그로스해커 - 스타트업 성장의 모든 것"
 email:              "simba430@naver.com"
-description:        "블로그 설명"
+description:        "스타트업/서비스기획/PM/PO/그로스해킹/디지털마케팅"
 author:             "이명준"
 baseurl:            "/"
 url:                "https://lmj-for-dev.github.io/"
@@ -10,7 +10,7 @@ thumbnail:          "/img/thumbnail.png"
 
 # Social Profiles
 twitter_username:   twitter_username
-instagram_username: instagram_username
+instagram_username: 2_bright_jun
 facebook_username:  facebook_username
 linkedin_username:  linkedin_username
 
