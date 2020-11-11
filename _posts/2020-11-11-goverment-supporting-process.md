@@ -3,7 +3,7 @@ layout: post
 permalink: /goverment_supporting_process1/
 title: '정부 창업지원사업 진행과정 총정리'
 date: 2020-11-11 18:08:00 +09:00
-feature: '/img/posts/001/01-bg-img.png'
+feature: '/img/posts/002/goverment_supporting_process1.png'
 background: '/img/posts/001/01-bg-img.png'
 categories:
   - business-plan
