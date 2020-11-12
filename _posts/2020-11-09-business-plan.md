@@ -3,7 +3,7 @@ layout: post
 permalink: /startup-business-plan/
 title: '모든 사업은 사업계획서로 시작한다.'
 date: 2020-11-09 12:06:00 +09:00
-feature: '/img/posts/001/01-bg-img.png'
+feature: '/img/posts/001/01-startup-img.jpg'
 background: '/img/posts/001/01-bg-img.png'
 categories:
   - business-plan
