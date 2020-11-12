@@ -23,6 +23,5 @@ plugins:
   - jekyll-paginate
 
 
-# 블로그 disqus shortname
 disqus:
   shortname: groshacker-starts-up
