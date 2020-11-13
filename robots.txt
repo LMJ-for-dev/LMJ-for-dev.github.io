@@ -2,3 +2,7 @@ User-agent: *
 Allow: /
 
 Sitemap: https://lmj-for-dev.github.io/sitemap.xml
+
+
+
+DaumWebMasterTool:7edb69549398b8c9898a546a3dba6b391e8463a5ecbd44fafb8714955650cef0:oKSpIRF3a/JD7lOJMFkGAw==
