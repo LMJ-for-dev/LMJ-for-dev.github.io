@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /overview-of-customer-survey/
+permalink: /posts_overview-of-customer-survey/
 title: '고객조사 방법론 개괄'
 date: 2020-11-15 20:00:00 +09:00
 feature: '/img/posts/003/avatar1-img.png'

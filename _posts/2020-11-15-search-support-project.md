@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /search-support-project/
+permalink: /posts_search-support-project/
 title: '내가 지원할 수 있는 창업지원사업 알아보기'
 date: 2020-11-25 20:00:00 +09:00
 feature: '/img/posts/004/valey-img.png'
