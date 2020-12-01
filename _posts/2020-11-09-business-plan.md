@@ -33,4 +33,4 @@ description: '좋은 사업 아이디어가 떠올랐어!라는 말은 단순히
 <br>
 
 [instagram_DM 바로가기](https://www.instagram.com/jb._.insight/)
-![내 얼굴](/img/posts/001/02-bg-img.png)
+![내 얼굴](/img/posts/001/01-thumb-img2.png)
