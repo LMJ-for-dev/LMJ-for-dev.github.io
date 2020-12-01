@@ -74,5 +74,5 @@ p.s - 지원금을 노리고 들어오는 사업자(페이퍼사업자 등)들�
 
 <br>
 
-[instagram_DM 바로가기](https://www.instagram.com/2_bright_jun/)
+[instagram_DM 바로가기](https://www.instagram.com/jb._.insight/)
 ![내 얼굴](/img/posts/001/02-bg-img.png)

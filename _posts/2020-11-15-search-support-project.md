@@ -76,5 +76,5 @@ Sba, 서울창업허브, 서울창업디딤터, 비즈인포, 창업보육센터
 
 
 
-[instagram_DM 바로가기](https://www.instagram.com/2_bright_jun/)
+[instagram_DM 바로가기](https://www.instagram.com/jb._.insight/)
 ![내 얼굴](/img/posts/001/02-bg-img.png)
