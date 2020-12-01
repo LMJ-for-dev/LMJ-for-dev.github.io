@@ -3,8 +3,8 @@ layout: post
 permalink: /posts_overview-of-customer-survey/
 title: '고객조사 방법론 개괄'
 date: 2020-11-15 20:00:00 +09:00
-feature: '/img/posts/003/avatar1-img.png'
-background: '/img/posts/001/01-bg-img.png'
+feature: '/img/posts/003/01-thumb-img2.png'
+background: '/img/posts/001/01-bg-img2.png'
 categories:
   - business-plan
 tags:
