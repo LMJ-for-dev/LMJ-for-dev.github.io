@@ -50,6 +50,12 @@ layout: default
       </div>
     </div>
   </article>
-
+  <!-- 데이터 레이어 -->
+  <script>
+      dataLayer.push({
+        'event': 'ViewContent',
+        'title': '{{ page.title }}'
+      });
+    </script>
 <!-- disqus -->
 {% include disqus.html %}
